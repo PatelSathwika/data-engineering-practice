@@ -1,0 +1,8 @@
+order_id,customer,product,quantity,price,city,revenue
+1001,Ravi,Laptop,2.0,55000,Hyderabad,110000.0
+1002,Priya,Mouse,3.0,500,Chennai,1500.0
+1003,Arjun,Keyboard,2.0,1200,Bangalore,2400.0
+1004,Sneha,Monitor,1.0,15000,Hyderabad,15000.0
+1005,Ravi,Laptop,2.0,55000,Hyderabad,110000.0
+1006,Anil,Mouse,0.0,500,Pune,0.0
+1007,Meena,Keyboard,1.0,1200,Chennai,1200.0

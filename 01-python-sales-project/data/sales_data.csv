@@ -1,0 +1,11 @@
+
+
+order_id,customer,product,quantity,price,city
+1001,Ravi,Laptop,2,55000,Hyderabad
+1002,Priya,Mouse,3,500,Chennai
+1003,Arjun,Keyboard,2,1200,Bangalore
+1004,Sneha,Monitor,1,15000,Hyderabad
+1005,Ravi,Laptop,2,55000,Hyderabad
+1005,Ravi,Laptop,2,55000,Hyderabad
+1006,Anil,Mouse,,500,Pune
+1007,Meena,Keyboard,1,1200,Chennai
